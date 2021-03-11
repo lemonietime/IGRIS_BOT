@@ -54,7 +54,7 @@ PM_START_TEXT = """
 Hey! {} my name is Patrick star
 I'm a group management bot, put me in your group.
 I'll help organize your group.
-To find out all the commands type 👉 / help.
+To find out all the commands type 👉 /help.
 """
 
 HELP_STRINGS = """
